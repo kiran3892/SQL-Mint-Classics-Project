@@ -1,3 +1,5 @@
+<img width="2496" height="1664" alt="image" src="https://github.com/user-attachments/assets/6125f248-25ce-495d-9cbd-9f63c73522b7" />
+
 # Data Analysis in Mint Classic Company Database
 In this project, exploratory data analysis will be conducted for Mint Classics Company, a retailer of model cars. The company is looking to close one of its storage facilities. The objective is to recommend inventory reduction strategies that will not negatively impact customer service.
 

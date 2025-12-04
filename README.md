@@ -25,7 +25,7 @@ Tha tables are as follows;
 8. **employees** - Store employee names, contact info, reporting person details and their designation in company
 9. **offices** - Store office codes, contact info and geographic distribution
 
-# Filed and Folders
+# Files and Folders
 **1. Cluster_views**
    - product_cluster_view
    - customer_cluster_view
